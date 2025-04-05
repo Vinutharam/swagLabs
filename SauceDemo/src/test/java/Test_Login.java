@@ -34,6 +34,6 @@ public class Test_Login extends Base {
 
 	@AfterTest
 	public void close() {
-		// driver.close();
+		driver.close();
 	}
 }

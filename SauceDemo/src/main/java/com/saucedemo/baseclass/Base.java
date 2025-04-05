@@ -16,7 +16,7 @@ public class Base {
 		prop = new Properties();
 		FileInputStream ip;
 			try {
-			ip = new FileInputStream("C:/Users/harish/eclipse-workspace/SauceDemo/Configuration/config.properties");
+			ip = new FileInputStream("C:/Users/harish/vinu/work/swagLabs/SauceDemo/Configuration/config.properties");
 			prop.load(ip);
 		} catch (FileNotFoundException e) {
 
