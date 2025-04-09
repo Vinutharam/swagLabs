@@ -23,6 +23,7 @@ public class Test_Login extends Base {
 		initialize();
 		loginpg = new LoginPage();
 		String s="hello";
+		String s1="hello chethan";
 
 	}
 
