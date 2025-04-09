@@ -22,7 +22,8 @@ public class Test_Login extends Base {
 	public void setup() throws IOException {
 		initialize();
 		loginpg = new LoginPage();
-		
+		String s="hello";
+		String s1="hello chethan";
 
 	}
 
